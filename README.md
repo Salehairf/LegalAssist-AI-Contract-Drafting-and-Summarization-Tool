@@ -7,8 +7,10 @@
 It helps lawyers, legal teams, and businesses quickly understand lengthy contracts or policies by generating concise, accurate summaries and clause insights.
 
 ---
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/1e0225fe-754f-4237-86cc-c6948e6e868c" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/1e0225fe-754f-4237-86cc-c6948e6e868c" />
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/20a9f590-e1c0-496f-ab8d-d2c40a69e970" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/1f8daf8f-c676-4d82-9c60-4029d9a32115" />
+
 
 
 
