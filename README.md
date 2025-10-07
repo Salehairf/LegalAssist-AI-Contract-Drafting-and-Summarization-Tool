@@ -8,6 +8,8 @@ It helps lawyers, legal teams, and businesses quickly understand lengthy contrac
 
 ---
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/1e0225fe-754f-4237-86cc-c6948e6e868c" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/20a9f590-e1c0-496f-ab8d-d2c40a69e970" />
+
 
 
 ## 🚀 Features
